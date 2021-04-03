@@ -19,7 +19,7 @@
 
 <a  href="https://www.djangoproject.com/"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"  alt="django"  width="100"  height="100"/> </a> <a  href="https://reactjs.org/"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react"  width="100"  height="100"/> </a> <a  href="https://www.postgresql.org"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  alt="postgresql"  width="100"  height="100"/> </a>
 
-<a  href="https://www.docker.com/"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  alt="docker"  width="100"  height="100"/> </a> <a  href="https://git-scm.com/"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="100"  height="100"/> </a> <a  href="https://heroku.com"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  alt="heroku"  width="100"  height="100"/> </a>
+<a  href="https://nodejs.org/en/"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs"  width="100"  height="100"/> </a> <a  href="https://git-scm.com/"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="100"  height="100"/> </a> <a  href="https://heroku.com"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  alt="heroku"  width="100"  height="100"/> </a>
 
 </p>
 
