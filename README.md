@@ -3,9 +3,9 @@
 
 <h3  align="center">I am currently studying for a master degree in Artificial Intelligence for Sustainable Development at <a  href="https://www.ucl.ac.uk/"  target="blank">UCL</a></h3>
 
-<p  align="left"> <a  href="https://twitter.com/ahmedabdulkadr_"  target="blank"><img  src="https://img.shields.io/twitter/follow/ahmad80605489?logo=twitter&style=for-the-badge"  alt="ahmad80605489" /></a> </p>
+<p  align="left"> <a  href="https://twitter.com/ahmedabdulkadr_"  target="blank"><img  src="https://img.shields.io/twitter/follow/ahmedabdulkadr_?logo=twitter&style=for-the-badge"  alt="ahmedabdulkadr_" /></a> </p>
 
-- 🔭 I’m currently working on [Covid-19 Warning System](https://github.com/parot-99/COVID-19-Warning-System)
+<!-- - 🔭 I’m currently working on [Covid-19 Warning System](https://github.com/parot-99/COVID-19-Warning-System) -->
 
 <h3  align="left">Languages and Tools:</h3>
 
